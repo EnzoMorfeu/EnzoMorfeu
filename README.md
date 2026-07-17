@@ -1,16 +1,106 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**EnzoMorfeu/EnzoMorfeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou o Enzo Coutinho
 
-Here are some ideas to get you started:
+### Estudante de Ciência da Computação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Sobre mim
+
+Sou estudante de Ciência da Computação e estou em constante evolução na área de desenvolvimento de software.
+
+Tenho interesse principalmente em:
+
+- Desenvolvimento Back-end
+- Desenvolvimento Web
+- Banco de Dados
+- Automação
+- Engenharia de Software
+- Analise de dados
+
+Sempre busco transformar conhecimento em projetos práticos para aprimorar minhas habilidades.
+
+---
+
+## Tecnologias
+
+### Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,html,css" />
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- SQL Server
+- MySQL
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
+
+---
+
+## Projetos
+
+### Gestão de Sistemas Máquina Material
+
+Sistema desenvolvido para gerenciamento de máquinas, materiais e controle operacional.
+
+**Tecnologias utilizadas**
+- Java
+- SQL
+- MySQL
+
+---
+
+### Gestão de Clínicas
+
+Sistema para gerenciamento de clínicas, pacientes, consultas e administração.
+
+**Tecnologias utilizadas**
+- Java
+- SQL Server
+- HTML
+- CSS
+
+---
+
+## Atualmente estudando
+
+- Java
+- Python
+- Estrutura de Dados
+- Banco de Dados
+- APIs REST
+- Spring Boot
+
+---
+
+## Objetivo
+
+Atualmente busco oportunidades de estágio e desenvolvimento profissional na área de Tecnologia da Informação, contribuindo com soluções eficientes e expandindo continuamente meus conhecimentos.
+
+---
+
+## Contato
+
+- LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/enzo-coutinho-dev/)
+- Email: enzocoutinho9@gmail.com
+
+---
+
+<div align="center">
+
+### Obrigado pela visita!
+
+</div>
