@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Eu sou o Enzo Coutinho
+#Eu sou o Enzo Coutinho
 
 ### Estudante de Ciência da Computação
 
